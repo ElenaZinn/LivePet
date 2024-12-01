@@ -1,5 +1,30 @@
 # LivePet
-DeskTop pet app for Android
+
+### Brief introduction
+DeskTop pet app for Android. Use Claude and 2 days to develop. 
+
+### Features
+
+✅ This application supports features of random position, random order and adjusting the size of the desktop.
+
+✅ Support to upload 9 pictures in total.
+
+✅ Support Chinese and English.
+
+### Screenshot
+
+#### Screenshot of Chinese version
+
+<img width="1213" alt="image" src="https://github.com/user-attachments/assets/e365b3fb-9bfe-48f5-97a2-a5c084b466f3">
+
+
+
+#### Screenshot of English version
+
+<img width="1209" alt="image" src="https://github.com/user-attachments/assets/ecca9806-98df-42df-9b35-1dc6a52824f1">
+
+
+
 
 ## License
 This project is licensed under a modified MIT License with the following restrictions:
