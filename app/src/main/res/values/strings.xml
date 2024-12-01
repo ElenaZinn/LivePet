@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Live pet</string>
+    <string name="pet_settings">设置</string>
+    <string name="pet_finish">完成</string>
+    <string name="pet_preview">预览</string>
+    <string name="pet_preview_des">预览大小和顺序</string>
+    <string name="pet_upload">点击上传图片</string>
+    <string name="pet_edit_order">编辑顺序</string>
+    <string name="pet_edit_order_desc">拖动以改变顺序</string>
+    <string name="pet_selected_image_number">已选图片</string>
+    <string name="pet_advanced_settings">高级设置</string>
+    <string name="pet_random_position">随机位置</string>
+    <string name="pet_random_order">随机顺序</string>
+    <string name="pet_size">尺寸</string>
+    <string name="pet_get_it">知道了</string>
+    <string name="pet_cancel">取消</string>
+    <string name="pet_confirm">确认</string>
+    <string name="pet_running">运行中</string>
+    <string name="pet_stopped">已停止</string>
+    <string name="pet_launch">启动</string>
+    <string name="pet_stop">停止</string>
+    <string name="pet_setting_main">设置</string>
+    <string name="pet_drag_position">拖动以改变位置</string>
+    <string name="pet_edit_size">编辑大小</string>
+
+
+</resources>

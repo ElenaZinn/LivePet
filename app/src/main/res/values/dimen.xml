@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_image_size">50dp</dimen>
+
+    <dimen name="preview_image_size">120dp</dimen>
+    <dimen name="preview_image_spacing">8dp</dimen>
+    <dimen name="title_bar_height">56dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="settings_item_height">56dp</dimen>
+    <dimen name="upload_area_stroke_width">4dp</dimen>
+    <dimen name="upload_area_corner_radius">16dp</dimen>
+    <dimen name="upload_prompt_text_size">16sp</dimen>
+    <dimen name="content_padding">16dp</dimen>
+    <dimen name="item_padding">12dp</dimen>
+    <dimen name="text_margin">8dp</dimen>
+    <dimen name="preview_height">120dp</dimen>
+    <dimen name="section_spacing">24dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="upload_plus_icon_size">80dp</dimen>
+    <dimen name="default_margin_top">12dp</dimen>
+</resources>

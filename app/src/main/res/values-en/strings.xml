@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Live pet</string>
+    <string name="pet_settings">Settings</string>
+    <string name="pet_finish">Finish</string>
+    <string name="pet_preview">Preview</string>
+    <string name="pet_preview_des">Preview size and order</string>
+    <string name="pet_upload">Click to upload pictures</string>
+    <string name="pet_edit_order">Edit Order</string>
+    <string name="pet_edit_order_desc">Drag to change the order</string>
+    <string name="pet_selected_image_number">images selected</string>
+    <string name="pet_advanced_settings">Advanced Settings</string>
+    <string name="pet_random_position">Random\npositions</string>
+    <string name="pet_random_order">Random\norder</string>
+    <string name="pet_size">Size</string>
+    <string name="pet_get_it">I know</string>
+    <string name="pet_cancel">Cancel</string>
+    <string name="pet_confirm">Confirm</string>
+
+    <string name="pet_running">is running</string>
+    <string name="pet_stopped">is stopped</string>
+    <string name="pet_launch">Launch</string>
+    <string name="pet_stop">Stop</string>
+    <string name="pet_setting_main">Settings</string>
+
+    <string name="pet_drag_position">Drag to change the position</string>
+    <string name="pet_edit_size">Edit Size</string>
+</resources>

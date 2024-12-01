@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- attrs.xml -->
+<resources>
+    <declare-styleable name="SettingsItemView">
+        <attr name="settingTitle" format="string" />
+        <attr name="settingDescription" format="string" />
+        <attr name="settingEnabled" format="boolean" />
+    </declare-styleable>
+</resources>

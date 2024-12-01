@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/theme_yellow_20"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/app_name"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/serviceStatusText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:text="Service is stopped" />
+
+        <Button
+            android:id="@+id/startPetButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:textAllCaps="false"
+            android:background="@drawable/pet_button_background"
+            android:text="@string/pet_launch" />
+
+        <Button
+            android:id="@+id/stopPetButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textAllCaps="false"
+            android:background="@drawable/pet_button_background"
+            android:text="@string/pet_stop" />
+
+        <Button
+            android:id="@+id/settingsButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textAllCaps="false"
+            android:background="@drawable/pet_button_background"
+            android:text="@string/pet_setting_main" />
+
+        <Button
+            android:id="@+id/toggleMovementButton"
+            style="@style/ToggleButtonStyle"
+            android:layout_marginTop="16dp"
+            android:text="Enable Random Movement"
+            android:enabled="false"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/drag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="60dp"
+            android:text="@string/pet_drag_position" />
+
+    </LinearLayout>
+</layout>
