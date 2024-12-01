@@ -23,7 +23,9 @@ DeskTop pet app for Android. Use Claude and 2 days to develop.
 
 <img width="1209" alt="image" src="https://github.com/user-attachments/assets/ecca9806-98df-42df-9b35-1dc6a52824f1">
 
+### Video
 
+https://youtube.com/shorts/TUNV09PEITA?si=jJz7o05d3DkdZUl4
 
 
 ## License
