@@ -5,7 +5,7 @@ DeskTop pet app for Android. Use Claude and 2 days to develop.
 
 ### Features
 
-✅ This application supports features of random position, random order and adjusting the size of the desktop.
+✅ This application supports features of random position, random order and adjusting the size of the desktop pet.
 
 ✅ Support to upload 9 pictures in total.
 
